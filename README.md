@@ -1,1 +1,1 @@
-# test-soymomo
+# super simple node application scaffold
